@@ -1,0 +1,2 @@
+# https-goo.g
+&lt;iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d7605.369553144623!2d100.26709431670955!3d13.56926705438114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d13.5671637!2d100.27181449999999!4m5!1s0x30e2c770be1caf83%3A0x4019237450e0630!2sTha+Sai%2C+Mueang+Samut+Sakhon+District%2C+Samut+Sakhon+74000!3m2!1d13.5713385!2d100.25033839999999!5e1!3m2!1sen!2sth!4v1481436515007" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>&lt;/iframe>
